@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Anton Koval</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hola, soy Anton 👋
 
-- 🌱 I’m currently learning **React.js**
+Desarrollador frontend junior, trabajando en proyectos freelance y ampliando conocimientos hacia React.
 
-<h3 align="left">Connect with me: antochka1236@gmail.com</h3>
-<p align="left">
-</p>
+## 🎯 Enfoque actual
+Construyo interfaces desde el diseño (Figma) hasta el código funcional — con JavaScript vanilla y dando el salto a React
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 🔧 Actualmente
+- 🌱 Aprendiendo React.js
+- 💻 Trabajando en proyectos freelance (WordPress, JavaScript)
+- 💪 Último proyecto: [GymBro]([ссылка](https://github.com/antochka1236-creator/GymBro)) — generador de rutinas y seguimiento de peso
+
+## 🚀 Proyectos
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [GymBro]([ссылка](https://github.com/antochka1236-creator/GymBro)) | Generador de rutinas + tracking de peso | JS, Chart.js, localStorage |
+| [Movie Search App]([ссылка](https://github.com/antochka1236-creator/tmdbMovies)) | Buscador de películas y actores | JS, Fetch API, TMDB |
+
+## 🛠️ Stack
+
+**Frontend:** `HTML` `CSS` `JavaScript` `React`
+**CMS:** `WordPress`
+**Diseño:** `Figma`
+**Herramientas:** `Git` `VS Code`
+
+*También con nociones de PHP.*
+
+## 📫 Contacto
+[LinkedIn]([ссылка](https://www.linkedin.com/in/anton-koval-ba39b23ba/)) · antochka1236@gmail.com
